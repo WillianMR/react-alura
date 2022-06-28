@@ -1,0 +1,16 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+
+
+
+body {
+  background-color: #f6f6f6;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
+}
