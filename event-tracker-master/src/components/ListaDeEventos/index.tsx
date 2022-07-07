@@ -7,7 +7,6 @@ import style from './ListaDeEventos.module.scss';
 const ListaDeEventos: React.FC = () => {
 
   const eventos = useListaDeEventos();
-
   return (<section>
     <Filtro />
     <div className={style.Scroll}>
